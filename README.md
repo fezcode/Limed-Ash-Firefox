@@ -1,5 +1,5 @@
-# Reddish Orange Theme for Firefox
+# Limed Ash Theme for Firefox
 
 `Colors` like theme for Firefox.
 
-[Firefox Add-Ons Link](https://addons.mozilla.org/en-US/firefox/addon/eucalyptus-bold/)
+[Firefox Add-Ons Link](https://addons.mozilla.org/tr/firefox/addon/limed-ash/)
