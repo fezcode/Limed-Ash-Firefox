@@ -1,0 +1,37 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Limed Ash",
+  "icons": {
+    "32": "images/icon.svg"
+  },
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-031-9570e8d1f7a5f835c92e764693337f43.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(135, 152, 106)",
+      "toolbar_text": "rgb(33, 36, 30)",
+      "frame": "rgb(113, 131, 85)",
+      "tab_background_text": "rgb(233, 245, 219)",
+      "toolbar_field": "rgb(151, 169, 124)",
+      "toolbar_field_text": "rgb(63, 66, 56)",
+      "tab_line": "rgb(63, 66, 56)",
+      "popup": "rgb(113, 131, 85)",
+      "popup_text": "rgb(245, 255, 230)",
+      "ntp_background": "rgb(181, 201, 154)",
+      "ntp_text": "rgb(71, 57, 7)",
+      "tab_loading": "rgb(63, 66, 56)"
+    }
+  }
+}
